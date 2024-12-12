@@ -21,6 +21,7 @@ function WeatherBar() {
                   <option value="Islamabad" className='!bg-blue-400'>Islamabad</option>
                   <option value="London" className='!bg-blue-400'>London</option>
                   <option value="India" className='!bg-blue-400'>India</option>
+                  <option value="North Korea" className='!bg-blue-400'>NorthKorea</option>
                 </select>
                 {/* <p className='text-white font-bold text-lg'>Lahore</p> */}
             </div>
